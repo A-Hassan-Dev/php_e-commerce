@@ -12,21 +12,10 @@
 
 ## 🌐 Live Demo
 
-**[🔗 View Live Site →](https://your-site.infinityfree.net)**
+**[🔗 View Live Site →](https://e-commerce.page.gd/)**
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Products Page |
-|---|---|
-| ![Home](https://via.placeholder.com/500x300/1A56DB/ffffff?text=Home+Page) | ![Products](https://via.placeholder.com/500x300/1A56DB/ffffff?text=Products+Page) |
-
-| Cart Page | Checkout Page |
-|---|---|
-| ![Cart](https://via.placeholder.com/500x300/1A56DB/ffffff?text=Cart+Page) | ![Checkout](https://via.placeholder.com/500x300/1A56DB/ffffff?text=Checkout+Page) |
-
----
 
 ## 📱 Fully Responsive Design
 
@@ -219,13 +208,6 @@ Products are stored in `data/products.json`:
 - All `$_GET` / `$_POST` values checked with `isset()` before use
 - `session_start()` called before any output
 - API endpoints return proper `Content-Type: application/json` headers
-
----
-
-## 👤 Author
-
-**Ahmed Hassan**
-- GitHub: [@your-username](https://github.com/your-username)
 
 ---
 
