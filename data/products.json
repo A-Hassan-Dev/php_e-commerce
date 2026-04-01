@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "category": "electronics",
+      "price": 79.99,
+      "description": "Premium over-ear headphones with 30-hour battery life and active noise cancellation. Crystal clear sound for music, calls, and gaming.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "stock": 25,
+      "rating": 4.5,
+      "reviews": 128,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Ergonomic Office Chair",
+      "category": "home",
+      "price": 199.99,
+      "description": "Adjustable ergonomic chair with lumbar support and breathable mesh back. Perfect for long hours of working from home.",
+      "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=800&q=80",
+      "stock": 10,
+      "rating": 4.8,
+      "reviews": 256,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Men's Classic Cotton T-Shirt",
+      "category": "clothing",
+      "price": 19.99,
+      "description": "100% pure premium cotton t-shirt. Breathable, comfortable, and perfect for everyday wear.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+      "stock": 150,
+      "rating": 4.2,
+      "reviews": 89,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Leather Wallet",
+      "category": "accessories",
+      "price": 34.99,
+      "description": "Slim leather wallet with RFID blocking technology. Holds up to 6 cards and cash without the bulk.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=80",
+      "stock": 45,
+      "rating": 4.7,
+      "reviews": 312,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Smart Fitness Watch",
+      "category": "electronics",
+      "price": 129.99,
+      "description": "Track your heart rate, sleep, and workouts. Features a vibrant AMOLED display and a 7-day battery life.",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80",
+      "stock": 0,
+      "rating": 4.6,
+      "reviews": 405,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Ceramic Coffee Mug Set",
+      "category": "home",
+      "price": 24.99,
+      "description": "Set of 4 hand-crafted ceramic mugs. Microwave and dishwasher safe with a beautiful matte glaze finish.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800&q=80",
+      "stock": 30,
+      "rating": 4.9,
+      "reviews": 75,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Women's Denim Jacket",
+      "category": "clothing",
+      "price": 59.99,
+      "description": "Classic blue denim jacket with a relaxed fit. A timeless wardrobe staple perfect for any casual outing.",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&q=80",
+      "stock": 20,
+      "rating": 4.4,
+      "reviews": 110,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Polarized Sunglasses",
+      "category": "accessories",
+      "price": 45.00,
+      "description": "UV400 polarized sunglasses with a lightweight and durable frame. Suitable for driving and outdoor activities.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=80",
+      "stock": 60,
+      "rating": 4.3,
+      "reviews": 45,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "4K Action Camera",
+      "category": "electronics",
+      "price": 149.99,
+      "description": "Waterproof 4K action camera with wide-angle lens and touch screen. Capture your adventures in stunning detail.",
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&q=80",
+      "stock": 15,
+      "rating": 4.7,
+      "reviews": 210,
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Soft Throw Blanket",
+      "category": "home",
+      "price": 29.99,
+      "description": "Cozy and ultra-soft fleece throw blanket. Perfect for snuggling up on the couch on chilly evenings.",
+      "image": "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=800&q=80",
+      "stock": 80,
+      "rating": 4.8,
+      "reviews": 512,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Leather Messenger Bag",
+      "category": "accessories",
+      "price": 89.99,
+      "description": "Vintage genuine leather messenger bag with multiple compartments. Designed to fit laptops up to 15 inches.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80",
+      "stock": 12,
+      "rating": 4.5,
+      "reviews": 98,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Running Shoes",
+      "category": "clothing",
+      "price": 85.00,
+      "description": "Lightweight athletic running shoes with responsive cushioning. Engineered for maximum comfort on the road.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+      "stock": 35,
+      "rating": 4.6,
+      "reviews": 167,
+      "featured": false
+    }
+  ]
+}
