@@ -165,15 +165,6 @@ cp -r shopzone /var/www/html/shopzone
 
 ---
 
-## 🌍 Deployment (InfinityFree — Free Hosting)
-
-1. Create a free account at [infinityfree.net](https://infinityfree.net)
-2. Create a new hosting account and note your **FTP credentials**
-3. Connect via **FileZilla** (FTP client)
-4. Upload all project files to the `htdocs/` directory
-5. Visit your subdomain — the site is live!
-
----
 
 ## 📦 Products Data Structure
 
